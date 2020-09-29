@@ -1,0 +1,9 @@
+D:\VisualStudio Project\TP-IA-NN\TPIAFANN\bin\x64\Debug\TPIAFANN.exe.config
+D:\VisualStudio Project\TP-IA-NN\TPIAFANN\bin\x64\Debug\TPIAFANN.exe
+D:\VisualStudio Project\TP-IA-NN\TPIAFANN\bin\x64\Debug\TPIAFANN.pdb
+D:\VisualStudio Project\TP-IA-NN\TPIAFANN\bin\x64\Debug\FANNCSharp.dll
+D:\VisualStudio Project\TP-IA-NN\TPIAFANN\obj\x64\Debug\TPIAFANN.csprojAssemblyReference.cache
+D:\VisualStudio Project\TP-IA-NN\TPIAFANN\obj\x64\Debug\TPIAFANN.csproj.CoreCompileInputs.cache
+D:\VisualStudio Project\TP-IA-NN\TPIAFANN\obj\x64\Debug\TPIAFANN.csproj.CopyComplete
+D:\VisualStudio Project\TP-IA-NN\TPIAFANN\obj\x64\Debug\TPIAFANN.exe
+D:\VisualStudio Project\TP-IA-NN\TPIAFANN\obj\x64\Debug\TPIAFANN.pdb
